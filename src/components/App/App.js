@@ -3,6 +3,7 @@ import "./App.css";
 
 const App = () => (
     <main className="App">
+        {/* Ninja Commit */}
         <CookieClicker/>
     </main>
 );
